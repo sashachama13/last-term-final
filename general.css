@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* CSS Document */
+@charset "UTF-8";
+@-moz-@viewport { width: device-width; scale: 1;}
+@-ms-viewport { width: device-width; scale: 1;}
+@-webkit-viewport { width: device-width; scale: 1;}
+@-o-viewport { width: device-width; scale: 1;}
+@-viewport { width: device-width; scale: 1;}
+
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+}
+
+.box {
+	background-color: #141300;
+	padding: 2rem;
+	
+}
+
+nav ul{
+	padding: 0;
+}
+
+nav li { 
+	color: #676667;
+	list-style-type: none;
+	font-size: .8rem;
+	display: inline;
+	padding: 0 .3rem;
+	letter-spacing: .1rem;
+
+}
+
+#footer{
+	background-color: #141300;
+}
+
